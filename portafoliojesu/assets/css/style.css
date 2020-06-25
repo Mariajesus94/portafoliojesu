@@ -1,0 +1,62 @@
+body {
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Raleway', sans-serif;
+}
+
+.navbar img {
+  width: 50.7px;
+  height: 50.7px;
+}
+
+header {
+  background-image: url('../img/perfil.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 30rem;
+}
+
+.titulos {
+  color:#ffffff;
+}
+
+.primer-parrafo {
+  font-family: 'Raleway', sans-serif;
+}
+
+hr {
+  height: 5px;
+  width: 20%;
+  background-color: black;
+}
+
+.carousel-indicators {
+  padding-top: 90px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  color: #373A3C;
+}
+.col-3 img {
+  width: 233px;
+  height: 170px;
+}
+
+.white {
+  height: 5px;
+  width: 20%;
+  background-color: white;
+}
+
+footer img {
+  width: 76px;
+  height: 76px;
+margin-right: 400px;
+}
+
+.fab {
+  color: #ffffff;
+}
